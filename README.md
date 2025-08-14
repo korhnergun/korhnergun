@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#, .NET MVC**
 
-- 💬 Ask me about **Web Developing**
+- 💬 Ask me about **Web and Backend Developing**
 
 - 📫 How to reach me **korhanergunt2@gmail.com**
 
