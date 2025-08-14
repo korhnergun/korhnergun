@@ -3,7 +3,7 @@
 
 <p align="center" > <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZzbXJkdTNhcWN6cW9hcmgzcTR1cnZleHlxcmw2ZmE5ODhsODkxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="korhnergun" width="400" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **C#, .NET MVC**
 
 - 💬 Ask me about **Web Developing**
 
